@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oniminal.github.io/sitemap.html.gz
+Sitemap: https://oniminal.github.io/app/sitemap.html.gz
+Sitemap: https://oniminal.github.io/assets/sitemap.html.gz
+Sitemap: https://oniminal.github.io/css/sitemap.html.gz
+Sitemap: https://oniminal.github.io/data/sitemap.html.gz
+Sitemap: https://oniminal.github.io/includes/sitemap.html.gz
+Sitemap: https://oniminal.github.io/item/sitemap.html.gz
+Sitemap: https://oniminal.github.io/src/sitemap.html.gz
